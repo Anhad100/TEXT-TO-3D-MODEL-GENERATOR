@@ -12,7 +12,11 @@ A web-based text-to-3D generation system that transforms natural language descri
 - **3D Visualization**: View generated models using the built-in visualization tool
 - **Shape-E Integration**: Powered by advanced text-to-3D algorithms
 - **No Installation Required**: Run directly in your browser
-
+##GITHUB TOKEN
+this repo requires a github PAT (Personal Access Token) to run, you can generate your PAT by going into your github settings --> developer settings --> PAT, once created create a .env file and follow the following commands
+```bash
+GITHUB_TOKEN="ghp_sdvsdeso23q3zxc23....."
+```
 ## 📋 Requirements
 
 - Python 3.8+
