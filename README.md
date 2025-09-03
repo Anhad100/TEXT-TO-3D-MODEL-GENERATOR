@@ -2,6 +2,9 @@
 
 A web-based text-to-3D generation system that transforms natural language descriptions into downloadable 3D models. Users can enter a text prompt and receive a downloadable `.ply` file containing the generated 3D model.
 
+## Tutorial
+[![Watch the video](https://img.youtube.com/vi/g56ACrWNH70/maxresdefault.jpg)](https://youtu.be/g56ACrWNH70)
+
 ## 🚀 Features
 
 - **Simple Web Interface**: Enter text prompts through an intuitive web interface
